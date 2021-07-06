@@ -1,1 +1,0 @@
-pip3 install -r requirements.txt && nohup python -u NotifyProduct.py &
